@@ -16,6 +16,16 @@ p {
   color: white;
 }
 
+p.intro {
+  font-weight: bold;
+  font-size: 1.25em;
+}
+
+p.warning {
+  color: red;
+  font-style: italic;
+}
+
 a {
   color: white;
 }
