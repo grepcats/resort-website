@@ -1,5 +1,17 @@
+body {
+  background-color: #89dcc1;
+    font-family: fantasy;
+}
+
 h1 {
   text-align: center;
+  color: #b23e8a;
+  font-size: 3em;
+}
+
+h2 {
+  color: #ffa500;
+  font-weight: bold;
 }
 
 img {
