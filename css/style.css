@@ -16,12 +16,12 @@ p {
   color: white;
 }
 
-p.intro {
+.intro {
   font-weight: bold;
   font-size: 1.25em;
 }
 
-p.warning {
+.warning {
   color: red;
   font-style: italic;
 }
